@@ -32,5 +32,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 25,
     fontWeight: "bold",
+    marginLeft: 10,
+    color: "purple",
   },
 });
